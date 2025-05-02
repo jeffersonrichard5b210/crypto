@@ -1,0 +1,12 @@
+{
+  "name": "Trumsk Legacy",
+  "symbol": "TRLG",
+  "description": "Trumsk Legacy (TRLG) is a satirical yet powerful token built on Solana, representing the imaginary financial alliance of tech titans — Google, Tesla, and Microsoft. Designed for speed, security, and speculative dominance, TRLG fuels the next era of decentralized movement backed by dreams, memes, and market power.",
+  "image": "https://raw.githubusercontent.com/jeffersonrichard5b210/crypto/refs/heads/main/trsk.jpeg",
+  "external_url": "https://trumsklegacy.rf.gd", 
+  "attributes": [],
+  "properties": {
+    "files": [{ "uri": "https://raw.githubusercontent.com/jeffersonrichard5b210/crypto/refs/heads/main/trsk.jpeg", "type": "image/jpeg" }],
+    "category": "image"
+  }
+}
